@@ -1,0 +1,71 @@
+.time{padding: 10px;
+text-align: center;}
+
+.list-items{padding: 2px;
+text-align: center;
+margin-top: 70px;
+margin-bottom:50px;}
+
+.image{padding:40px;
+text-align: center;}
+
+.dog_image { margin-left: 40%;
+	margin-top: 45px;
+	width: 360px;
+	height: 265px;
+}
+
+.heading{text-align: center;
+	padding: 90px;}
+
+.head2{text-transform: uppercase;}
+
+
+
+.nav-bar{display:inline-flex;
+list-style-type: none;
+width: 100%}
+
+.custom-select{margin: 20px;
+padding: 10px;}
+
+.foot{margin-top: 30px;
+text-align: center;
+ background-color: ivory;}
+
+.news{text-align: center;
+list-style-type: none;
+margin-top: 60px;
+margin-bottom: 60px;
+background-color: ivory;}
+
+.copy{margin-top: 50px;
+text-align: center;}
+
+.header{width: : 100%;
+height: 100%;}
+
+.follow{text-align: center;
+margin-top: 20px;}
+
+iframe{width: 100%;}
+
+footer {clear: both;
+    background-color:#4E2A2A;
+    color: #e5e5e5;
+    padding: 30px ;
+    margin-top: 80px;}
+
+  body{background-color:#FFFFF0}
+
+  .para{padding: 50px;}
+
+  header{background-color: #A07B71}
+
+ 
+ 
+
+    
+
+*{margin: 0px;
+padding: 0px;}

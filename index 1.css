@@ -1,0 +1,79 @@
+.pic-logo{max-width: 150px;
+max-height:150px;
+margin-top: 10px;}
+
+.logo{background-color: orange;}
+
+.title-header{text-align: center;
+color: black;
+margin-bottom: 10px;}
+
+
+.nav-bar{background-color:blue;}
+
+.nav-bar ul{display:inline-flex;
+margin-left:1px;}
+
+
+.list-item{list-style-type:none;
+font-size:30px;}
+
+
+.nav-bar a{text-decoration:none;
+margin:15px;
+padding:20px;
+
+color: black;}
+
+
+.motto{margin-top: 20px;
+padding:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{margin:0px;
+padding:0px;}

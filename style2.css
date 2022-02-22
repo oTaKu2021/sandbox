@@ -1,0 +1,79 @@
+.title-header{background-color:brown;}
+
+.title-name{ margin-bottom:10px;}
+
+.title-address{padding-bottom:20px;}
+
+
+.img-logo{max-width:150px;
+max-height:150px;
+margin:10px;
+}
+
+.title-card{text-align:center;}
+
+.nav-bar{background-color:white;
+color: brown;}
+
+.nav-bar ul{display:inline-flex;
+margin-left:1px;
+}
+
+
+.list-item{list-style-type:none;
+font-size:30px;
+color:black;}
+
+
+.nav-bar a{text-decoration:none;
+margin:10px;
+padding:5px;
+}
+
+
+
+.wallpaper{max-width:55%;
+max-height:55%;
+margin-bottom:40px;
+margin-top:10px;}
+
+
+body{background: rgb(242, 241, 237);}
+
+
+
+.LATEST-NEWS{float:right;
+margin:20px;
+padding:5px;
+background-color:white;
+color:brown; 
+}
+
+
+
+.news-list-item, latest-news a{font-size: 20px;
+background:white;}
+
+.news-list-item{list-style-type:none;
+padding: 5px;
+color:brown;}
+
+
+
+
+*{margin:0px;
+padding:0px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

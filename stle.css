@@ -1,0 +1,86 @@
+
+
+
+
+.title-header{ background-color: green;
+}
+
+.title-name{margin-bottom: 10px;
+	}
+
+.title-address{padding-bottom:20px;}
+
+.img-logo{
+
+ max-width:150px; 
+max-height: 150px;
+margin: 10px;}
+
+.title-card{ text-align: center; }
+
+.nav-bar{background-color:white}
+
+.nav-bar ul{ display: inline-flex;
+margin-left: 1px }
+
+.list-item{list-style-type: none;
+font-size: 30px;
+color: green;}
+
+.nav-bar a{ text-decoration: none; 
+margin: 10px;
+padding: 5px;
+}
+
+.classroom{
+max-width: 60%;
+max-height: 60%;
+margin-bottom:40px;}
+  
+  body{ 
+  	background:rgb(242, 241, 237); 
+  }
+
+
+  .latest-news{float:right; 
+   margin:20px;
+   padding:5px;
+   background-color:white;
+	   color:green;}
+
+
+
+.news-list-item,lastest-news a{ 
+font-size:20px;}
+
+
+
+.news-list-item{list-style-type:none;
+padding:5px;
+}
+
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.card{float:left;
+margin-left:70px;
+background-color:white}
+
+.card img{width:294px;
+height:300px
+}
+
+.card p{font-size:larger;}
+.card h1, p{padding: 7px;}
+
+
+
+
+
+
+
